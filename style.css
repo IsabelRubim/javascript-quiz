@@ -1,0 +1,17 @@
+.background-primary {
+    background-image: radial-gradient( circle farthest-corner at 0.4% -0.6%,  rgba(143,170,210,1) 0%, rgba(255,177,177,1) 90% );
+}
+
+.text {
+    color: rgb(255, 178, 178);
+}
+
+.content {
+    background-image: radial-gradient( circle farthest-corner at 0.4% -0.6%,  rgba(143,170,210,1) 5%, rgba(255,177,177,1) 90% );
+    padding: 9px;
+    display: block;
+    width: 250px;
+    height: 130px;
+    color: white;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .2);
+}
